@@ -1,9 +1,5 @@
 ## Oi, eu sou o Raphael!
 
-[BR] Eu sou **Mestre em Sociologia** e estou atualmente migrando para a área de **Ciência de Dados**. Antes de decidir migrar, eu já me aventurava nas análises estatísticas para pesquisa científica, usando o R. Pra isso, usei bastante pré-processamento de dados, compatibilização de bases de dados distintas e modelagem preditiva.
-
-[EN] I am a **Sociologist** making my way to **Data Science**. As a Sociologist, I conducted statistical analysis in scientific researches, using R. Because of that, I have some experience in data preprocessing, data harmonization and predictive modeling.
-
 ### Linguagens e Ferramentas:
 
 Linguagens:
